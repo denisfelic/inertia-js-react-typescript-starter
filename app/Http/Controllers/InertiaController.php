@@ -11,7 +11,6 @@ class InertiaController extends Controller
     {
         return Inertia::render('home/index', [
             'title' => 'Hello, world!',
-            'name' => 'Denis',
         ]);
     }
 }
