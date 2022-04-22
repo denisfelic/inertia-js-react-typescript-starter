@@ -1,4 +1,3 @@
-import { Page } from "@inertiajs/inertia";
 import { Head } from "@inertiajs/inertia-react";
 import React from "react";
 
